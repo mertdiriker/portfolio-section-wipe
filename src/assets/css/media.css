@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) {
+    .panel h1{
+        font-size: 16px !important;
+        line-height: 20px !important;
+        margin-top: 10px !important;
+    }
+    .panel h2{
+        font-size: 14px !important;
+        line-height: 16px !important;
+    }
+    img{
+        height: 100px !important;
+    }
+    p{
+        font-size: 12px !important;
+        line-height: 14px !important;
+    }
+    .card h3{
+        padding: 15px !important;
+    }
+}

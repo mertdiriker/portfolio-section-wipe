@@ -1,0 +1,14 @@
+
+.card img {
+    max-width: 100%;
+}
+.card {
+    background-color: transparent;
+    color: white;
+}
+.card h3{
+    padding: 20px;
+}
+.card-text{
+    margin-top: 20px;
+}

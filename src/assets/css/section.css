@@ -1,0 +1,44 @@
+.home{
+    overflow: hidden;
+} 
+.panel {
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    padding-bottom: 300px !important;
+}
+
+.panel h1 {
+    position: relative;
+    display: block;
+    overflow: visible;
+    top: 30%;
+    font-size: 35px !important;
+    color: #FFFFFF;
+    line-height: 40px;
+}
+.panel h2 {
+    position: relative;
+    display: block;
+    overflow: visible;
+    top: 30%;
+    font-size: 20px !important;
+    color: #FFFFFF;
+    line-height: 30px;
+}
+
+.panel.blue {
+    background-color: black;
+}
+
+.panel.turqoise {
+    background-color: black;
+}
+
+.panel.green {
+    background-color: black;
+}
+
+.panel.bordeaux {
+    background-color: #953543;
+}
